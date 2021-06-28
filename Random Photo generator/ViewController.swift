@@ -46,7 +46,7 @@ class ViewController: UIViewController {
         super.viewDidLayoutSubviews()
     }
     
-    
+// download photos from unsplash
   func  getRandomPhoto() {
         let urlString =  "https://source.unsplash.com/user/erondu/1600x900"
         
